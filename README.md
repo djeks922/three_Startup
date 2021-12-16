@@ -2,5 +2,8 @@
 
 After cloning, in root folder 
 
-run : npm install
-      npm run dev 
+run 
+
+-npm install
+
+-npm run dev 
